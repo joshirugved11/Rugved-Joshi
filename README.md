@@ -1,1 +1,6 @@
-![Header Image] ([https://link_to_your_image.com](https://www.google.com/imgres?q=be%20the%20change%20you%20want%20to%20be&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F511f0ff8e4b083811eaf612c%2F1591781308234-444DM9Z7W8ZAOMRA8UDA%2F2020-06-09-Blog%2BPost.jpg&imgrefurl=https%3A%2F%2Fwww.carlpullein.com%2Fblog%2Fbe-the-change-you-want-to-see-in-the-world%2F10%2F6%2F2020&docid=X3yfjM0VxrfKUM&tbnid=AkacUV-zsE5w6M&vet=12ahUKEwiyrLaMgfiKAxUCzzgGHVkUJ_sQM3oECC8QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiyrLaMgfiKAxUCzzgGHVkUJ_sQM3oECC8QAA))
+## Hi 👋, I'm Rugved Joshi
+I describe myself as ambitious, constantly seeking and learning new things
+
+![Profile Views](https://komarev.com/ghpvc/?username=RugvedJoshi&color=blue)
+
+
