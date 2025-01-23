@@ -23,7 +23,10 @@ I describe myself as ambitious, constantly seeking and learning new things
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RugvedJoshi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshirugved11&show_icons=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshirugved11&layout=compact&theme=radical&langs_count=8)
 
 
 
