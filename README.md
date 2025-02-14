@@ -3,7 +3,7 @@ I describe myself as ambitious, constantly seeking and learning new things
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RugvedJoshi&color=blue)
 
-- 🌱 I’m currently learning [PyTorch, Flutter, Julia, Data Science, Databases and Exploring new research topics]
+- 🌱 I’m currently learning [PyTorch, Data Science, Databases and Exploring new research topics]
 - 📫 How to reach me: Reach me via Linkedin
 - ⚡ Fun fact: I play Tabla and Flute and I love playing chess and badminton
 
