@@ -5,7 +5,7 @@ I describe myself as ambitious, constantly seeking and learning new things
 
 - 🌱 I’m currently learning [PyTorch, Data Science, Databases and Exploring new research topics]
 - 📫 How to reach me: Reach me via Linkedin
-- ⚡ Fun fact: I play Tabla and Flute and I love playing chess and badminton
+- ⚡ Fun fact: I play musical instruments and also outdoor sports
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rugved-joshi-954a9b22a)
@@ -17,7 +17,6 @@ I describe myself as ambitious, constantly seeking and learning new things
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 
