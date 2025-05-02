@@ -11,8 +11,15 @@ I describe myself as ambitious, constantly seeking and learning new things
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rugved-joshi-954a9b22a)
 
 ## Languages and Tools:
-![Python](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=c%2B%2B) ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript) [![Node.js](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb) ![Data Science](https://img.shields.io/badge/AI-Data_Science-blue?style=for-the-badge&logo=python) ![Machine Learning](https://img.shields.io/badge/AI-Machine_Learning-orange?style=for-the-badge&logo=scikitlearn) ![PyTorch](https://img.shields.io/badge/AI-PyTorch-red?style=for-the-badge&logo=pytorch) ![Transformers](https://img.shields.io/badge/AI-Transformers-yellow?style=for-the-badge&logo=huggingface) ![Docker](https://img.shields.io/badge/DevOps-Docker-blue?style=for-the-badge&logo=docker)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=HuggingFace&logoColor=black)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/API-211F1F?style=for-the-badge&logo=api&logoColor=white)
+
+![pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white) ![Conda](https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
