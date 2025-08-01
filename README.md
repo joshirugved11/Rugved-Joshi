@@ -3,14 +3,6 @@
 
 ---
 
-🌱 I’m currently working on:  
-→ 🎵 A full-stack music generation app using Riffusion and Next.js  
-→ 🧠 A 1M parameter healthcare-specific language model  
-→ 📈 Personal finance tracker with Next.js and Node.js  
-→ 📚 Daily DSA journey from basic to advanced
-
----
-
 💬 Ask me about:
 - AI/ML, LLMs, music generation, audio engineering
 - Full-stack web development
@@ -64,8 +56,7 @@
 ---
 
 ### 🎯 Fun Facts
-- 🧠 I’m on a mission to build projects which people can use it for real world applications
-- 🎧 I’m passionate about AI + Music, and working on my own music generation model  
+- 🧠 I’m on a mission to build projects which people can use it for real world applications 
 - 📺 I’m starting a YouTube channel with tech, vlogs and much more  
 - 🧪 I love experimenting with LLMs, multimodal AI, and edge-deployable Rust projects  
 - 🔥 I believe learning by doing > tutorials
