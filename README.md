@@ -1,67 +1,91 @@
 <h1 align="center">Hi 👋, I'm Rugved Joshi</h1>
-<h3 align="center">Building AI systems, shipping real-world projects, and sharing my journey.</h3>
+<h3 align="center">Building AI systems, shipping real-world projects, and sharing my journey 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joshirugved11&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ---
 
-💬 Ask me about:
-- AI/ML, LLMs, music generation, audio engineering
-- Full-stack web development
-- Content Creation
-
-📫 Connect with me:  
-<a href="[https://www.linkedin.com/in/rugved-joshi]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rugvedsamruddhi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[https://rugvedjoshi.dev]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&style=for-the-badge"></a>
+## 💬 Ask Me About
+- 🤖 AI/ML, LLMs, Multimodal AI
+- 🎵 Music Generation & Audio Engineering
+- 🌐 Full-stack Web Development
+- 📹 Content Creation & Tech YouTube
 
 ---
 
-### 🛠️ Languages & Frameworks
+## 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/rugved-joshi" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rugvedsamruddhi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://rugvedjoshi.in" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&style=for-the-badge" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=000)
 
 ---
 
-### 🤖 AI & ML
+## 🤖 AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+# 📊 GitHub Stats
+
+## 🔥 Main Stats
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshirugved11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshirugved11&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshirugved11&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshirugved11&layout=compact&theme=radical" width="49%"/>
-</div>
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joshirugved11&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🎯 Fun Facts
-- 🧠 I’m on a mission to build projects which people can use it for real world applications 
-- 📺 I’m starting a YouTube channel with tech, vlogs and much more  
-- 🧪 I love experimenting with LLMs, multimodal AI, and edge-deployable Rust projects  
-- 🔥 I believe learning by doing > tutorials
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joshirugved11&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
-_✨ Let's build the future together, one commit at a time._
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshirugved11&theme=tokyo-night&hide_border=true" />
+</p>
 
+---
+
+## 🎯 Fun Facts
+- 🧠 I build real-world AI systems
+- 📺 Launching a tech YouTube journey
+- 🧪 Love experimenting with LLMs & multimodal models
+- 🔥 Learning by building > tutorials
+
+---
+
+<h3 align="center">✨ Let's build the future together, one commit at a time.</h3>
