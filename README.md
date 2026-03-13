@@ -51,32 +51,15 @@
 
 # 📊 GitHub Stats
 
-## 🔥 Main Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshirugved11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshirugved11&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<a href="https://github.com/joshirugved11">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshirugved11&size_weight=0&count_weight=1&hide=html,css,jupyter%20notebook,purebasic,dockerfile,r&langs_count=3&layout=donut-vertical&theme=radical" />
+</a>
+<span>&emsp;</span>
+<a href="https://github.com/joshirugved11">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshirugved11&show_icons=true&line_height=27&count_private=true&theme=radical&rank_icon=github&include_all_commits=true" alt="SK's GitHub Stats" />
+</a>
 
----
-
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joshirugved11&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joshirugved11&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshirugved11&theme=tokyo-night&hide_border=true" />
-</p>
+![Rugved's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=radical&hide_border=true&currStreakNum=F6A085&currStreakLabel=F6A085&user=joshirugved11)
 
 ---
 
