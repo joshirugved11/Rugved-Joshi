@@ -2,20 +2,21 @@
 <h3 align="center">Building AI systems, shipping real-world projects, and sharing my journey 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshirugved11&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=joshirugved11&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💬 Ask Me About
-- 🤖 AI/ML, LLMs, Multimodal AI
-- 🎵 Music Generation & Audio Engineering
-- 🌐 Full-stack Web Development
-- 📹 Content Creation & Tech YouTube
+## 🧠 About Me
+- 🚀 Building **AI systems & real-world products**
+- 🤖 Focused on **LLMs, Multimodal AI & Deep Learning**
+- 🎵 Exploring **Music AI & Audio Engineering**
+- 📺 Sharing knowledge via **Tech Content & YouTube**
+- ⚡ Learning by **building, not just consuming**
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/rugved-joshi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -40,33 +41,51 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=000)
 
----
-
-## 🤖 AI & ML
+### 🤖 AI & ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<a href="https://github.com/joshirugved11">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshirugved11&size_weight=0&count_weight=1&hide=html,css,jupyter%20notebook,purebasic,dockerfile,r&langs_count=3&layout=donut-vertical&theme=radical" />
-</a>
-<span>&emsp;</span>
-<a href="https://github.com/joshirugved11">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joshirugved11&show_icons=true&line_height=27&count_private=true&theme=radical&rank_icon=github&include_all_commits=true" alt="SK's GitHub Stats" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshirugved11&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshirugved11&layout=compact&theme=radical&langs_count=6&hide=html,css,jupyter%20notebook" height="170"/>
+</p>
 
-![Rugved's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=radical&hide_border=true&currStreakNum=F6A085&currStreakLabel=F6A085&user=joshirugved11)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joshirugved11&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph (Animated 🔥)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshirugved11&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Clean, Non-Anime)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joshirugved11/joshirugved11/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joshirugved11&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 🎯 Fun Facts
 - 🧠 I build real-world AI systems
-- 📺 Launching a tech YouTube journey
-- 🧪 Love experimenting with LLMs & multimodal models
+- 📺 Growing a tech YouTube channel
+- 🧪 Love experimenting with LLMs & multimodal AI
 - 🔥 Learning by building > tutorials
 
 ---
