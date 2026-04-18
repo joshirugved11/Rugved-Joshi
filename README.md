@@ -73,22 +73,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joshirugved11/joshirugved11/main/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joshirugved11&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ## 🎯 Fun Facts
 
 * 🧠 I build real-world AI systems
